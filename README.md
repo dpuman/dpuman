@@ -1,4 +1,4 @@
-![I am a Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, DIPANKAR BARMAN
 #### I am a Web Developer
 
