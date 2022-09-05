@@ -1,6 +1,6 @@
 
-DIPANKAR BARMAN
-#### I am a Web Developer
+Hi 👊, I'm DIPANKAR BARMAN
+#### I am Web Developer
 
 
 
@@ -15,7 +15,6 @@ Skills: Python / Django / JavaScript React Js / MySQL / Html / Html5 /	C / CSS /
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dpuman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dpuman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dpumen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/twit_dpu)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dpuman)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpuman)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,5 +25,7 @@ Skills: Python / Django / JavaScript React Js / MySQL / Html / Html5 /	C / CSS /
 ![GitHub metrics](https://metrics.lecoq.io/dpuman)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dpuman)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dpuman)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/dpuman)  
