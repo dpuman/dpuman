@@ -1,6 +1,7 @@
 
-### Hi there 👋, DIPANKAR BARMAN
+DIPANKAR BARMAN
 #### I am a Web Developer
+
 
 
 I love building new and attractive things, enjoy fixing things, and solving problems. I wish to be someone who never stops and overcomes any challenges.
