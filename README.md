@@ -12,7 +12,7 @@ I love building new and attractive things, enjoy fixing things, and solving prob
 
 - 🔭 I’m currently working on **"SMS" an NGO project**
 
-- 🌱 I’m currently learning **Algorithms**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **dipankarbarman.mail@gmail.com**
 
