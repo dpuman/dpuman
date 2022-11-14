@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DIPANKAR BARMAN</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-I love building new and attractive things, enjoy fixing things, and solving problems. I wish to be someone who never stops and overcomes any challenges.
+I love building new and attractive applications, enjoy fix things, and solve problems. I wish to be someone who never stops and overcomes any challenges.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpuman&label=Profile%20views&color=0e75b6&style=flat" alt="dpuman" /> </p>
 <p align="left"> <a href="https://twitter.com/twit_dpu" target="blank"><img src="https://img.shields.io/twitter/follow/twit_dpu?logo=twitter&style=for-the-badge" alt="twit_dpu" /></a> </p>
